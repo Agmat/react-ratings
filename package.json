@@ -1,0 +1,34 @@
+{
+  "name": "@avocat/react-ratings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agmat/react-ratings.git"
+  },
+  "author": "Gabriel Cabanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agmat/react-ratings/issues"
+  },
+  "keywords": [
+    "rating",
+    "react",
+    "component",
+    "react-component",
+    "star",
+    "react-star"
+  ],
+  "homepage": "https://github.com/Agmat/react-ratings#readme",
+  "dependencies": {
+    "lodash": "^4.17.13",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
